@@ -5,7 +5,7 @@
 NuLink is middleware to simplify communication with blockchains.
 Here you'll find the NuLink Golang node, currently in alpha.
 This initial implementation is intended for use and review by developers,
-and will go on to form the basis for NuLink's [decentralized oracle network](https://link.smartcontract.com/whitepaper).
+and will go on to form the basis for NuLink's [decentralized oracle network](https://www.nulink.org/whitepaper.pdf).
 Further development of the NuLink Node and NuLink Network will happen here,
 if you are interested in contributing please see our [contribution guidelines](./docs/CONTRIBUTING.md).
 The current node supports:
